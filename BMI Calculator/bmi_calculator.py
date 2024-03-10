@@ -25,4 +25,4 @@ if BMI > 0:
         print("You are severley overweight")
 
 else:
-    print("Please enter correct values") 
+    print("Please enter correct/accurate values") 
